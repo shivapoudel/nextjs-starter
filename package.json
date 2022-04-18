@@ -11,7 +11,7 @@
     "debug:dev": "cross-env NODE_OPTIONS='--inspect' next dev"
   },
   "dependencies": {
-    "next": "12.1.4",
+    "next": "12.1.5",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "sass": "1.50.0"
@@ -23,7 +23,7 @@
     "autoprefixer": "10.4.4",
     "cross-env": "7.0.3",
     "eslint": "8.13.0",
-    "eslint-config-next": "12.1.4",
+    "eslint-config-next": "12.1.5",
     "eslint-config-prettier": "8.5.0",
     "husky": "7.0.4",
     "lint-staged": "12.3.8",
